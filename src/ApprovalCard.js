@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Section 3. JSX props
 const ApprovalCard = (props) => {
     return (
         <div className="ui card">

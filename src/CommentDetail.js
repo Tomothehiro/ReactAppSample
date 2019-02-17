@@ -1,6 +1,7 @@
 import React from 'react';
 import faker from 'faker';
 
+// Section 3. JSX props
 const CommentDetail = (props) => {
     return (
           <div className="comment">
