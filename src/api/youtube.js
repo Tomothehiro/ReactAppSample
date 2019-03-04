@@ -1,6 +1,5 @@
 import axios from 'axios';
-
-const KEY = 'AIzaSyBFDCP6Iwm8L6hEpgayJ1CblFUHzu83gWk';
+import KEY from '../constant';
 
 // https://developers.google.com/youtube/v3/docs/search/list
 export default axios.create({
